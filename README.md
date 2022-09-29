@@ -16,7 +16,8 @@ $ npm install
 $ npm run dev
 ```
 
-LICENSE
+# LICENSE
+
 MIT License
 
 Copyright Hong Sumin. All Rights Reserved.
